@@ -1,0 +1,17 @@
+pre/*
+ref/*
+build/*
+.ccls-cache/*
+test/.ipynb_checkpoints/*
+*.so
+*.bak
+*.o
+*.log
+*.aux
+*.toc
+font.dir
+font.scale
+*.blg
+*.bbl
+*.out
+*.png
